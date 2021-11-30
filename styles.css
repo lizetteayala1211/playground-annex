@@ -299,7 +299,7 @@ body {
 }
 
 #title-wrapper-container {
-    width: 38.5vw;
+    width: auto;
     height: 60%;
     display: flex;
     flex-direction: row;
@@ -314,7 +314,7 @@ body {
 #title-container {
     font-family: "EuroStar-Black-Extended";
     color: white;
-    font-size: 2.5vw;
+    font-size: 4.5vw;
      border-bottom: none; 
 }
 
@@ -339,7 +339,7 @@ body {
 #hours-container {
     font-family: "EuroStar-Regular-Extended";
     color: white;
-    font-size: 2.5vw;
+    font-size: 3.2vw;
     text-align: center;
     display: flex;
     align-self: center;
@@ -385,7 +385,7 @@ body {
 #copy-wrapper-container {
     font-family: "EuroStar-Regular-Extended";
     color: white;
-    font-size: 2.5vw;
+    font-size: 3.2vw;
     width: 90%;
     /* margin-left: 22px; */
     height: 35%;
@@ -399,7 +399,7 @@ body {
 #button-book-wrapper-container {
     font-family: "EuroStar-Regular-Extended";
     color: white;
-    font-size: 2.5vw;
+    font-size: 3.2vw;
     width: 96%;
     height: 30%;
     margin-left: 22px;
@@ -407,7 +407,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     /* background-color: green; */
-    margin-top: 50px;
+    margin-top: 90px;
     align-content: center;
 }
 
@@ -418,11 +418,11 @@ body {
     text-align: center;
     font-family: EuroStar-Black-Extended;
     color: white;
-    font-size: 2.4vw;
-    width: 43%;
+    font-size: 3.2vw;
+    width: auto;
     height: 40%;
     border: 1px solid white;
-    padding: 15px 15px;
+    padding: 20px 20px;
     cursor: pointer;
 }
 
@@ -447,7 +447,7 @@ body {
     align-self: center;
     align-content: center;
     /* align-items: center; */
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 #book-reference-container {
