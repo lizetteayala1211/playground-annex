@@ -298,6 +298,26 @@ body {
     /* background-color: yellow; */
 }
 
+#title-wrapper-container {
+    width: 38.5vw;
+    height: 60%;
+    display: flex;
+    flex-direction: row;
+    /* background-color: red; */
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    /* margin-left: 18px; */
+    border-bottom: 1px solid white;
+}
+
+#title-container {
+    font-family: "EuroStar-Black-Extended";
+    color: white;
+    font-size: 2.5vw;
+     border-bottom: none; 
+}
+
 #break-wrapper-container {
     width: 15vw;
     height: 60%;
