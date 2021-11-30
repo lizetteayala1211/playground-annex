@@ -385,7 +385,7 @@ body {
 #copy-wrapper-container {
     font-family: "EuroStar-Regular-Extended";
     color: white;
-    font-size: 3.2vw;
+    font-size: 3.5vw;
     width: 90%;
     /* margin-left: 22px; */
     height: 35%;
@@ -399,7 +399,7 @@ body {
 #button-book-wrapper-container {
     font-family: "EuroStar-Regular-Extended";
     color: white;
-    font-size: 3.2vw;
+    font-size: 3.5vw;
     width: 96%;
     height: 30%;
     margin-left: 22px;
@@ -407,7 +407,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     /* background-color: green; */
-    margin-top: 90px;
+    margin-top: 140px;
     align-content: center;
 }
 
@@ -418,7 +418,7 @@ body {
     text-align: center;
     font-family: EuroStar-Black-Extended;
     color: white;
-    font-size: 3.2vw;
+    font-size: 3.5vw;
     width: auto;
     height: 40%;
     border: 1px solid white;
